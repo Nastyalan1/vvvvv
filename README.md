@@ -49,9 +49,6 @@
     </div>
 </body>
 </html>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,7 +97,6 @@
     </script>
     <button onclick="window.location.href='page3.html'">ALSOOO</button>
 </html>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -192,7 +188,6 @@
      <button onclick="window.location.href='page4.html'">Yes! 💖</button>
 </body>
 </html>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
